@@ -106,7 +106,6 @@ Accept wildcard characters: False
 The type of the policy to be assigned.
 Possible values:
 - CallingLineIdentity
-- OnlineVoiceRoutingPolicy
 - TeamsAppSetupPolicy
 - TeamsCallingPolicy
 - TeamsCallParkPolicy
